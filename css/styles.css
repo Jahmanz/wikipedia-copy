@@ -45,3 +45,16 @@
 .green_column {
   background-color: #f5fffa;
 }
+
+.blue_heading {
+  background-color: #cedff2;
+  border: 1px solid black;
+}
+
+.blue_body {
+  background-color: #dae6f2;
+}
+
+.blue_column {
+  background-color: #dae6f2;
+}
